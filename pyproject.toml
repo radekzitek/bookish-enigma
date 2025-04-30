@@ -1,0 +1,20 @@
+[tool.black]
+line-length = 88
+# You can specify files/directories to include or exclude if needed
+# include = '\.pyi?$'
+# exclude = '''
+# /(
+#     \.git
+#   | \.hg
+#   | \.mypy_cache
+#   | \.tox
+#   | \.venv
+#   | _build
+#   | buck-out
+#   | build
+#   | dist
+#   | venv
+#   | alembic/versions
+# )/
+# '''
+
